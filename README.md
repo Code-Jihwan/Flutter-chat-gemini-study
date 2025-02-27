@@ -1,6 +1,9 @@
 # flutter-chat-gemini
-플러터로 Gemini API 사용하여 단일 페이지 챗봇 화면 구현
-<img src="https://github.com/user-attachments/assets/d8009e39-0d26-48a4-a252-20ba4318d948" width="200" height="400"/>
+## 플러터로 Gemini API 사용하여 단일 페이지 챗봇 화면 구현
+
+<img src="https://github.com/user-attachments/assets/d8009e39-0d26-48a4-a252-20ba4318d948" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/ec219fc7-32ba-4be8-8740-3892c8a2c79d" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/3b01fb90-0b01-4ceb-8436-9115313f64da" width="250" height="500"/>
 
 
 
