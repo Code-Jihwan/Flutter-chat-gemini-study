@@ -1,6 +1,6 @@
 # flutter-chat-gemini
 플러터로 Gemini API 사용하여 단일 페이지 챗봇 화면 구현
-<img src="![Simulator Screenshot - iPhone 16 Pro - 2025-02-28 at 08 42 58](https://github.com/user-attachments/assets/d8009e39-0d26-48a4-a252-20ba4318d948)" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/d8009e39-0d26-48a4-a252-20ba4318d948" width="200" height="400"/>
 
 
 
